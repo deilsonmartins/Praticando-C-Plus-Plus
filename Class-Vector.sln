@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class-Vector", "Class-Vector\Class-Vector.vcxproj", "{EB3F4914-6B69-4847-92EC-E8A0438D3176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3F4914-6B69-4847-92EC-E8A0438D3176}.Debug|x64.ActiveCfg = Debug|x64
+		{EB3F4914-6B69-4847-92EC-E8A0438D3176}.Debug|x64.Build.0 = Debug|x64
+		{EB3F4914-6B69-4847-92EC-E8A0438D3176}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB3F4914-6B69-4847-92EC-E8A0438D3176}.Debug|x86.Build.0 = Debug|Win32
+		{EB3F4914-6B69-4847-92EC-E8A0438D3176}.Release|x64.ActiveCfg = Release|x64
+		{EB3F4914-6B69-4847-92EC-E8A0438D3176}.Release|x64.Build.0 = Release|x64
+		{EB3F4914-6B69-4847-92EC-E8A0438D3176}.Release|x86.ActiveCfg = Release|Win32
+		{EB3F4914-6B69-4847-92EC-E8A0438D3176}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C488C205-8953-4452-9C46-4FDD09856EE8}
+	EndGlobalSection
+EndGlobal
